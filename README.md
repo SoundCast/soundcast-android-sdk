@@ -1,2 +1,20 @@
-# soundcast-android-sdk
-SoundCast Android SDK is an Android framework for loading SoundCast audio ads in publishers Android Apps
+# SoundCast Android SDK
+
+The Sample is available in **Java** and **Kotlin**.
+
+## Download our sample app
+Download our sample app from our github repository
+```
+git clone https://github.com/SoundCast/soundcast-android-sdk.git
+```
+## Java
+Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundCastSample) for the **Java** documentation
+```
+cd soundcast-android-sdk/SoundCastSample
+```
+
+## Kotlin
+Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundCastSampleKotlin) for the **Kotlin** documentation
+```
+cd soundcast-android-sdk/SoundCastSampleKotlin
+```
