@@ -8,13 +8,13 @@ Download our sample app from our github repository
 git clone https://github.com/SoundCast/soundcast-android-sdk.git
 ```
 ## Java
-Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundCastSample) for the **Java** documentation
+Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundcastSdkJavaSamples) for the **Java** documentation
 ```
 cd soundcast-android-sdk/SoundCastSample
 ```
 
 ## Kotlin
-Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundCastSampleKotlin) for the **Kotlin** documentation
+Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/SoundcastSdkKoltinSamples) for the **Kotlin** documentation
 ```
 cd soundcast-android-sdk/SoundCastSampleKotlin
 ```
