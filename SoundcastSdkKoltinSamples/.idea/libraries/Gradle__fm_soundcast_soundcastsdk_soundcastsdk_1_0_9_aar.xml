@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: fm.soundcast.soundcastsdk:soundcastsdk:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/soundcastsdk-1.0.9.aar/057099f66c123153b4eeb2bb9f560477/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/soundcastsdk-1.0.9.aar/057099f66c123153b4eeb2bb9f560477/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/fm.soundcast.soundcastsdk/soundcastsdk/1.0.9/78851fe728447ec2298e5b624bb8af7b12d62e0c/soundcastsdk-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SoundcastSdkJavaSamples</string>
+    <string name="adcall">ad call</string>
+    <string name="Error">ad  Error: No ad</string>
+    <string name="audio">audio content play</string>
+    <string name="firstquartile">firstquartile</string>
+    <string name="midpoint">midpoint</string>
+    <string name="thirdquartile">thirdquartile</string>
+    <string name="start">start</string>
+    <string name="complete">complete</string>
+    <string name="callAd">callAd</string>
+    <string name="timeStart">00:00</string>
+
+</resources>
