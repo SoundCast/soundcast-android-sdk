@@ -18,3 +18,14 @@ Click [here](https://github.com/soundcast/soundcast-android-sdk/tree/master/Soun
 ```
 cd soundcast-android-sdk/SoundCastSampleKotlin
 ```
+
+## Building the projects 
+
+1. Download Android Studio
+2. Open any of the two projects
+3. Build -> Clean project
+4. Build -> Rebuild project
+
+## Any questions
+
+Please contact our support team.
